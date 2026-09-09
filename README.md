@@ -1,10 +1,9 @@
-# Praktikum 1 - Eksplorasi Data (EDA)
+# Praktikum 2 
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Najwa Ramadhan
 NIM : 2488010001
 ## Ringkasan
-Praktikum eksplorasi data pada dataset Iris:
-pemeriksaan struktur, kualitas data, dan visualisasi.
+Mengenali struktur dataset, membedakan tugas klasifikasi dan regresi, melakukan pembagian data latih/uji dan memahami maknanya.
 ## Isi Repositori
 - PM_P2_NajwaRamadhan_2488010001.ipynb : notebook praktikum
 ## Temuan Utama
