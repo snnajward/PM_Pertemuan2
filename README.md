@@ -1,4 +1,4 @@
-# Praktikum 2 
+# Praktikum 2 - Jenis Pembelajaran dan Alur Kerja Machine Learning
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Najwa Ramadhan
 NIM : 2488010001
